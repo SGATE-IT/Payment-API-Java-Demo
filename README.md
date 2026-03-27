@@ -1,4 +1,4 @@
-# GCCPay API Demo
+# Payment API Demo
 
 API 文档：[https://docs.sgate.sa/zh/v2/payinApi/](https://docs.sgate.sa/zh/v2/payinApi/)
 
